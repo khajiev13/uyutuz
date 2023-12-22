@@ -25,7 +25,7 @@
 
   "mainHero": {
     "title": "Uyut bilan uyingiz",
-    "subtitle": "yanada chiroyliroq bo'ladi.",
+    "subtitle": "yanada chiroyli bo'ladi.",
     "description": "Uyut sizga eng yaxshi xizmatni taqdim etadi. Bizning mahsulotlarimiz bilan, siz har doim zamonaviy va jozibali interyer yaratishingiz mumkin.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
@@ -150,5 +150,14 @@
       "instagram": "https://www.instagram.com/turtkulpotolok/",
       "telegram": "https://www.t.me/Turtkulpotolok"
     }
+  },
+  "pictures": {
+    "detskiy": {},
+    "spalniy": {},
+    "kuhnya": {},
+    "vannaya": {},
+    "gostinaya": {},
+    "koridor": {},
+    "ofis": {}
   }
 }
